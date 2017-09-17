@@ -1,0 +1,1144 @@
+<?xml version='1.0' encoding='utf-8'?>
+<mlt title="Anonymous Submission" version="6.4.1" root="/media/lnj/LNJ-1TB-HDD/vid/Harry_Potter_Synchro/1080Remake_3" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
+ <profile width="1920" frame_rate_den="1001" height="1080" display_aspect_num="16" display_aspect_den="9" frame_rate_num="24000" colorspace="709" sample_aspect_den="1" description="HD 1080p 23.98 fps" progressive="1" sample_aspect_num="1"/>
+ <producer id="1" title="Anonymous Submission" out="15026" in="0">
+  <property name="length">00:10:26:18</property>
+  <property name="eof">pause</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2155724</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">156734</property>
+  <property name="meta.attr.1.stream.language.markup">deu</property>
+  <property name="meta.attr.1.stream.handler_name.markup">Stereo</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">HandBrake 6548svn 2014112401</property>
+  <property name="meta.attr.title.markup">Harry Potter und der Penner von Alcatraz Teil 1 [Remake]</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.frame_rate_num">3381075</property>
+  <property name="meta.media.frame_rate_den">141019</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">181656792</property>
+  <property name="kdenlive:file_hash">fa0d842257f46d9eda978a1a1d24de90</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="2" title="Anonymous Submission" out="203849" in="0">
+  <property name="length">02:21:42:06</property>
+  <property name="eof">pause</property>
+  <property name="resource">/data/medarium/Filme/Fantasy/Harry_Potter/Harry_Potter_und_der_Gefangene_von_Askaban_(2004)/Harry_Potter_und_der_Gefangene_von_Askaban.2004.1080p.mkv</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="meta.media.nb_streams">4</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">800</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">6</property>
+  <property name="meta.media.1.codec.name">dca</property>
+  <property name="meta.media.1.codec.long_name">DCA (DTS Coherent Acoustics)</property>
+  <property name="meta.media.1.codec.bit_rate">1536000</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.media.2.codec.name">ssa</property>
+  <property name="meta.media.2.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.2.stream.language.markup">eng</property>
+  <property name="meta.media.3.stream.type">audio</property>
+  <property name="meta.media.3.codec.sample_fmt">fltp</property>
+  <property name="meta.media.3.codec.sample_rate">48000</property>
+  <property name="meta.media.3.codec.channels">6</property>
+  <property name="meta.media.3.codec.name">ac3</property>
+  <property name="meta.media.3.codec.long_name">ATSC A/52A (AC-3)</property>
+  <property name="meta.media.3.codec.bit_rate">640000</property>
+  <property name="meta.attr.encoder.markup">libebml v0.7.7 + libmatroska v0.8.1</property>
+  <property name="meta.attr.creation_time.markup">2008-11-06T15:54:01.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="meta.media.frame_rate_num">13978</property>
+  <property name="meta.media.frame_rate_den">583</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">800</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="kdenlive:file_size">12936305175</property>
+  <property name="kdenlive:file_hash">50801c0a6f64a726e10a82bfec64aa9d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="3" title="Anonymous Submission" out="119" in="0">
+  <property name="length">120</property>
+  <property name="eof">pause</property>
+  <property name="resource"/>
+  <property name="progressive">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="seekable">1</property>
+  <property name="mlt_service">kdenlivetitle</property>
+  <property name="kdenlive:clipname">Title clip</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="xmldata">&lt;kdenlivetitle width="1920" duration="120" out="120" height="1080" LC_NUMERIC="de_DE.UTF-8">
+ &lt;item z-index="1" type="QGraphicsTextItem">
+  &lt;position x="148" y="183">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="63" box-height="93" font-outline-color="0,0,0,255" shadow="0;#64000000;3;3;3" font="DejaVu Sans" font-underline="0" font-outline="0" font-pixel-size="80" line-spacing="0" box-width="163" font-color="255,0,4,255" alignment="1">Rec&lt;/content>
+ &lt;/item>
+ &lt;item z-index="0" type="QGraphicsTextItem">
+  &lt;position x="30" y="110">
+   &lt;transform>1,0,0,0,1,0,0,0,1&lt;/transform>
+  &lt;/position>
+  &lt;content font-italic="0" letter-spacing="0" font-weight="50" box-height="245" shadow="0;#64000000;3;3;3" font="DejaVu Sans" font-underline="0" font-pixel-size="210" line-spacing="0" box-width="124" font-color="255,0,4,255" alignment="1">•&lt;/content>
+ &lt;/item>
+ &lt;startviewport rect="0,0,1920,1080"/>
+ &lt;endviewport rect="0,0,1920,1080"/>
+ &lt;background color="0,0,0,0"/>
+&lt;/kdenlivetitle>
+</property>
+  <property name="kdenlive:duration">120</property>
+  <property name="force_reload">0</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">1080</property>
+  <property name="kdenlive:file_hash">e73543f63562008187d3809fd632e676</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <playlist id="main bin">
+  <property name="kdenlive:docproperties.audiotargettrack">2</property>
+  <property name="kdenlive:docproperties.decimalPoint">,</property>
+  <property name="kdenlive:docproperties.dirtypreviewchunks">0,25,50,75,100</property>
+  <property name="kdenlive:docproperties.disablepreview">0</property>
+  <property name="kdenlive:docproperties.documentid">1491915946911</property>
+  <property name="kdenlive:docproperties.enableproxy">0</property>
+  <property name="kdenlive:docproperties.generateimageproxy">0</property>
+  <property name="kdenlive:docproperties.generateproxy">0</property>
+  <property name="kdenlive:docproperties.kdenliveversion">16.12.2</property>
+  <property name="kdenlive:docproperties.position">517</property>
+  <property name="kdenlive:docproperties.previewchunks"/>
+  <property name="kdenlive:docproperties.previewextension">mov</property>
+  <property name="kdenlive:docproperties.previewparameters">r=23.976 s=1920x1080 vb=36M threads=0 vcodec=dnxhd</property>
+  <property name="kdenlive:docproperties.profile">atsc_1080p_2398</property>
+  <property name="kdenlive:docproperties.proxyextension">mpg</property>
+  <property name="kdenlive:docproperties.proxyimageminsize">2000</property>
+  <property name="kdenlive:docproperties.proxyminsize">1000</property>
+  <property name="kdenlive:docproperties.proxyparams">-vf scale=640:-1 -g 5 -qscale 6 -ab 128k -vcodec mpeg2video -acodec mp2</property>
+  <property name="kdenlive:docproperties.version">0.95</property>
+  <property name="kdenlive:docproperties.verticalzoom">1</property>
+  <property name="kdenlive:docproperties.videotargettrack">3</property>
+  <property name="kdenlive:docproperties.zonein">0</property>
+  <property name="kdenlive:docproperties.zoneout">100</property>
+  <property name="kdenlive:docproperties.zoom">10</property>
+  <property name="kdenlive:documentnotes"/>
+  <property name="kdenlive:clipgroups"/>
+  <property name="kdenlive:docproperties.renderaudioquality">160</property>
+  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderendguide">-1</property>
+  <property name="kdenlive:docproperties.renderexportaudio">0</property>
+  <property name="kdenlive:docproperties.renderguide">0</property>
+  <property name="kdenlive:docproperties.renderplay">0</property>
+  <property name="kdenlive:docproperties.renderprofile">MP4 - the dominating format (H264/AAC)</property>
+  <property name="kdenlive:docproperties.renderquality">20</property>
+  <property name="kdenlive:docproperties.renderratio">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
+  <property name="kdenlive:docproperties.renderrescaleheight">180</property>
+  <property name="kdenlive:docproperties.renderrescalewidth">320</property>
+  <property name="kdenlive:docproperties.renderscanning">0</property>
+  <property name="kdenlive:docproperties.renderspeed">1</property>
+  <property name="kdenlive:docproperties.renderstartguide">-1</property>
+  <property name="kdenlive:docproperties.rendertcoverlay">0</property>
+  <property name="kdenlive:docproperties.rendertctype">0</property>
+  <property name="kdenlive:docproperties.rendertwopass">0</property>
+  <property name="kdenlive:docproperties.renderurl">/home/lnj/HPudPvA_01_1080Rmkx.mp4</property>
+  <property name="kdenlive:docproperties.renderzone">0</property>
+  <property name="xml_retain">1</property>
+  <entry out="15026" producer="1" in="0"/>
+  <entry out="203849" producer="2" in="0"/>
+  <entry out="119" producer="3" in="0"/>
+ </playlist>
+ <producer id="black" out="203888" in="0">
+  <property name="length">203889</property>
+  <property name="eof">pause</property>
+  <property name="resource">black</property>
+  <property name="aspect_ratio">0</property>
+  <property name="mlt_service">colour</property>
+  <property name="set.test_audio">0</property>
+ </producer>
+ <playlist id="black_track">
+  <entry out="15027" producer="black" in="0"/>
+ </playlist>
+ <playlist id="playlist1">
+  <property name="kdenlive:track_name">Audio 2</property>
+  <property name="kdenlive:audio_track">1</property>
+ </playlist>
+ <producer id="1_playlist2_audio" title="Anonymous Submission" out="15026" in="0">
+  <property name="length">00:10:26:18</property>
+  <property name="eof">pause</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">-1</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">181656792</property>
+  <property name="kdenlive:file_hash">fa0d842257f46d9eda978a1a1d24de90</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2155724</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">156734</property>
+  <property name="meta.attr.1.stream.language.markup">deu</property>
+  <property name="meta.attr.1.stream.handler_name.markup">Stereo</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">HandBrake 6548svn 2014112401</property>
+  <property name="meta.attr.title.markup">Harry Potter und der Penner von Alcatraz Teil 1 [Remake]</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+ </producer>
+ <playlist id="playlist2">
+  <property name="kdenlive:track_name">Audio 1</property>
+  <property name="kdenlive:audio_track">1</property>
+  <entry out="515" producer="1_playlist2_audio" in="0"/>
+  <entry out="15026" producer="1_playlist2_audio" in="516"/>
+ </playlist>
+ <playlist id="playlist3">
+  <property name="kdenlive:track_name">Video 1</property>
+ </playlist>
+ <producer id="slowmotion:2:1,04:1:0" out="196001" in="0">
+  <property name="length">196002</property>
+  <property name="eof">pause</property>
+  <property name="resource">1,04:/data/medarium/Filme/Fantasy/Harry_Potter/Harry_Potter_und_der_Gefangene_von_Askaban_(2004)/Harry_Potter_und_der_Gefangene_von_Askaban.2004.1080p.mkv</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">4</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">800</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">6</property>
+  <property name="meta.media.1.codec.name">dca</property>
+  <property name="meta.media.1.codec.long_name">DCA (DTS Coherent Acoustics)</property>
+  <property name="meta.media.1.codec.bit_rate">1536000</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.media.2.codec.name">ssa</property>
+  <property name="meta.media.2.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.2.stream.language.markup">eng</property>
+  <property name="meta.media.3.stream.type">audio</property>
+  <property name="meta.media.3.codec.sample_fmt">fltp</property>
+  <property name="meta.media.3.codec.sample_rate">48000</property>
+  <property name="meta.media.3.codec.channels">6</property>
+  <property name="meta.media.3.codec.name">ac3</property>
+  <property name="meta.media.3.codec.long_name">ATSC A/52A (AC-3)</property>
+  <property name="meta.media.3.codec.bit_rate">640000</property>
+  <property name="meta.attr.encoder.markup">libebml v0.7.7 + libmatroska v0.8.1</property>
+  <property name="meta.attr.creation_time.markup">2008-11-06T15:54:01.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">1,04</property>
+  <property name="warp_resource">/data/medarium/Filme/Fantasy/Harry_Potter/Harry_Potter_und_der_Gefangene_von_Askaban_(2004)/Harry_Potter_und_der_Gefangene_von_Askaban.2004.1080p.mkv</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="meta.media.frame_rate_num">13978</property>
+  <property name="meta.media.frame_rate_den">583</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">800</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <producer id="slowmotion:2:0,8:1:0" out="254811" in="0">
+  <property name="length">254812</property>
+  <property name="eof">pause</property>
+  <property name="resource">0,8:/data/medarium/Filme/Fantasy/Harry_Potter/Harry_Potter_und_der_Gefangene_von_Askaban_(2004)/Harry_Potter_und_der_Gefangene_von_Askaban.2004.1080p.mkv</property>
+  <property name="aspect_ratio">1</property>
+  <property name="meta.media.nb_streams">4</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.width">1920</property>
+  <property name="meta.media.0.codec.height">800</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">0</property>
+  <property name="meta.attr.0.stream.language.markup">eng</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">6</property>
+  <property name="meta.media.1.codec.name">dca</property>
+  <property name="meta.media.1.codec.long_name">DCA (DTS Coherent Acoustics)</property>
+  <property name="meta.media.1.codec.bit_rate">1536000</property>
+  <property name="meta.attr.1.stream.language.markup">eng</property>
+  <property name="meta.media.2.codec.name">ssa</property>
+  <property name="meta.media.2.codec.long_name">ASS (Advanced SubStation Alpha) subtitle</property>
+  <property name="meta.media.2.codec.bit_rate">0</property>
+  <property name="meta.attr.2.stream.language.markup">eng</property>
+  <property name="meta.media.3.stream.type">audio</property>
+  <property name="meta.media.3.codec.sample_fmt">fltp</property>
+  <property name="meta.media.3.codec.sample_rate">48000</property>
+  <property name="meta.media.3.codec.channels">6</property>
+  <property name="meta.media.3.codec.name">ac3</property>
+  <property name="meta.media.3.codec.long_name">ATSC A/52A (AC-3)</property>
+  <property name="meta.media.3.codec.bit_rate">640000</property>
+  <property name="meta.attr.encoder.markup">libebml v0.7.7 + libmatroska v0.8.1</property>
+  <property name="meta.attr.creation_time.markup">2008-11-06T15:54:01.000000Z</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="warp_speed">0,8</property>
+  <property name="warp_resource">/data/medarium/Filme/Fantasy/Harry_Potter/Harry_Potter_und_der_Gefangene_von_Askaban_(2004)/Harry_Potter_und_der_Gefangene_von_Askaban.2004.1080p.mkv</property>
+  <property name="mlt_service">timewarp</property>
+  <property name="meta.media.frame_rate_num">13978</property>
+  <property name="meta.media.frame_rate_den">583</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">1920</property>
+  <property name="meta.media.height">800</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <playlist id="playlist4">
+  <property name="kdenlive:track_name">Video 2</property>
+  <blank length="516"/>
+  <entry out="869" producer="slowmotion:2:1,04:1:0" in="659"/>
+  <entry out="1464" producer="slowmotion:2:1,04:1:0" in="870">
+   <filter id="mirror">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="1560" producer="slowmotion:2:1,04:1:0" in="1467">
+   <filter id="filter0">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="1667" producer="slowmotion:2:1,04:1:0" in="1563">
+   <filter id="filter1">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <blank length="231"/>
+  <entry out="2266" producer="slowmotion:2:1,04:1:0" in="1944">
+   <filter id="filter2">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="2274" producer="slowmotion:2:1,04:1:0" in="2267">
+   <filter id="filter3">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+   <filter id="fade_to_black" out="2275" in="2267">
+    <property name="start">1</property>
+    <property name="mlt_service">brightness</property>
+    <property name="kdenlive_id">fade_to_black</property>
+    <property name="tag">brightness</property>
+    <property name="kdenlive_ix">3</property>
+    <property name="end">0</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="213"/>
+  <entry out="2533" producer="slowmotion:2:1,04:1:0" in="2417">
+   <filter id="filter4">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="2895" producer="slowmotion:2:1,04:1:0" in="2535">
+   <filter id="filter5">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="2967" producer="slowmotion:2:1,04:1:0" in="2897">
+   <filter id="filter6">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="3399" producer="slowmotion:2:1,04:1:0" in="2970">
+   <filter id="filter7">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="3473" producer="slowmotion:2:1,04:1:0" in="3401">
+   <filter id="filter8">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="4725" producer="slowmotion:2:1,04:1:0" in="3475">
+   <filter id="filter9">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="5650" producer="slowmotion:2:1,04:1:0" in="4727">
+   <filter id="filter10">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="6549" producer="slowmotion:2:1,04:1:0" in="5655">
+   <filter id="filter11">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="7041" producer="slowmotion:2:1,04:1:0" in="6553">
+   <filter id="filter12">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="8337" producer="slowmotion:2:1,04:1:0" in="7043">
+   <filter id="filter13">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="8614" producer="slowmotion:2:1,04:1:0" in="8341">
+   <filter id="filter14">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="9064" producer="slowmotion:2:1,04:1:0" in="8724">
+   <filter id="filter15">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <blank length="39"/>
+  <entry out="9426" producer="slowmotion:2:1,04:1:0" in="9104">
+   <filter id="filter16">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="9552" producer="slowmotion:2:1,04:1:0" in="9429">
+   <filter id="filter17">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="9554" producer="slowmotion:2:1,04:1:0" in="9553">
+   <filter id="filter18">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="10928" producer="slowmotion:2:1,04:1:0" in="9555">
+   <filter id="filter19">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <blank length="63"/>
+  <entry out="14278" producer="slowmotion:2:0,8:1:0" in="14214">
+   <filter id="filter20">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <blank length="58"/>
+  <entry out="11300" producer="slowmotion:2:1,04:1:0" in="11145">
+   <filter id="filter21">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="11372" producer="slowmotion:2:1,04:1:0" in="11302">
+   <filter id="filter22">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="11516" producer="slowmotion:2:1,04:1:0" in="11374">
+   <filter id="filter23">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <blank length="491"/>
+  <entry out="11791" producer="slowmotion:2:1,04:1:0" in="11743">
+   <filter id="filter24">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="11870" producer="slowmotion:2:1,04:1:0" in="11794">
+   <filter id="filter25">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="11872" producer="slowmotion:2:1,04:1:0" in="11871">
+   <filter id="filter26">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="12196" producer="slowmotion:2:1,04:1:0" in="11874">
+   <filter id="filter27">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="12364" producer="slowmotion:2:1,04:1:0" in="12198">
+   <filter id="filter28">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <blank length="19"/>
+  <entry out="12572" producer="slowmotion:2:1,04:1:0" in="12429">
+   <filter id="filter29">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="13074" producer="slowmotion:2:1,04:1:0" in="12574">
+   <filter id="filter30">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="13241" producer="slowmotion:2:1,04:1:0" in="13076">
+   <filter id="filter31">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="13363" producer="slowmotion:2:1,04:1:0" in="13243">
+   <filter id="filter32">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="13422" producer="slowmotion:2:1,04:1:0" in="13364">
+   <filter id="filter33">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="13628" producer="slowmotion:2:1,04:1:0" in="13433">
+   <filter id="filter34">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="13762" producer="slowmotion:2:1,04:1:0" in="13629">
+   <filter id="filter35">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="14252" producer="slowmotion:2:1,04:1:0" in="13764">
+   <filter id="filter36">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="14465" producer="slowmotion:2:1,04:1:0" in="14254">
+   <filter id="filter37">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <entry out="14660" producer="slowmotion:2:1,04:1:0" in="14469">
+   <filter id="filter38">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+  <blank length="25"/>
+  <entry out="14742" producer="slowmotion:2:1,04:1:0" in="14686">
+   <filter id="filter39">
+    <property name="mirror">flip</property>
+    <property name="mlt_service">mirror</property>
+    <property name="kdenlive_id">mirror</property>
+    <property name="tag">mirror</property>
+    <property name="kdenlive_ix">2</property>
+    <property name="reverse">0</property>
+   </filter>
+  </entry>
+ </playlist>
+ <producer id="1_video" title="Anonymous Submission" out="15026" in="0">
+  <property name="length">00:10:26:18</property>
+  <property name="eof">pause</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
+  <property name="audio_index">-1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">1</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:file_size">181656792</property>
+  <property name="kdenlive:file_hash">fa0d842257f46d9eda978a1a1d24de90</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">23,976</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">1280</property>
+  <property name="meta.media.0.codec.height">720</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">23,976</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">709</property>
+  <property name="meta.media.0.codec.color_trc">1</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">2155724</property>
+  <property name="meta.attr.0.stream.handler_name.markup">VideoHandler</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">s16p</property>
+  <property name="meta.media.1.codec.sample_rate">48000</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">mp3</property>
+  <property name="meta.media.1.codec.long_name">MP3 (MPEG audio layer 3)</property>
+  <property name="meta.media.1.codec.bit_rate">156734</property>
+  <property name="meta.attr.1.stream.language.markup">deu</property>
+  <property name="meta.attr.1.stream.handler_name.markup">Stereo</property>
+  <property name="meta.attr.major_brand.markup">mp42</property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">isomiso2avc1mp41</property>
+  <property name="meta.attr.encoder.markup">HandBrake 6548svn 2014112401</property>
+  <property name="meta.attr.title.markup">Harry Potter und der Penner von Alcatraz Teil 1 [Remake]</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">3381075</property>
+  <property name="meta.media.frame_rate_den">141019</property>
+  <property name="meta.media.colorspace">709</property>
+  <property name="meta.media.color_trc">1</property>
+  <property name="meta.media.width">1280</property>
+  <property name="meta.media.height">720</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+ </producer>
+ <playlist id="playlist5">
+  <property name="kdenlive:track_name">Video 3</property>
+  <entry out="515" producer="1_video" in="0">
+   <filter id="frei0r.scale0tilt">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+    <property name="kdenlive_info"/>
+   </filter>
+  </entry>
+  <blank length="998"/>
+  <entry out="1751" producer="1_video" in="1514">
+   <filter id="filter40">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <blank length="7065"/>
+  <entry out="8857" producer="1_video" in="8819">
+   <filter id="filter41">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <blank length="1823"/>
+  <entry out="10741" producer="1_video" in="10679">
+   <filter id="filter42">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <blank length="65"/>
+  <entry out="10806" producer="1_video" in="10806"/>
+  <entry out="10864" producer="1_video" in="10808">
+   <filter id="filter43">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <entry out="79" producer="3" in="0"/>
+  <blank length="210"/>
+  <entry out="11159" producer="1_video" in="11157">
+   <filter id="filter44">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <blank length="77"/>
+  <entry out="11725" producer="1_video" in="11235">
+   <filter id="filter45">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <blank length="618"/>
+  <entry out="12362" producer="1_video" in="12344">
+   <filter id="filter46">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <blank length="2214"/>
+  <entry out="14601" producer="1_video" in="14577">
+   <filter id="filter47">
+    <property name="version">0,1</property>
+    <property name="mlt_service">frei0r.scale0tilt</property>
+    <property name="kdenlive_id">frei0r.scale0tilt</property>
+    <property name="tag">frei0r.scale0tilt</property>
+    <property name="kdenlive_ix">1</property>
+    <property name="Clip left">0</property>
+    <property name="Clip right">0</property>
+    <property name="Clip top">0,12963</property>
+    <property name="Clip bottom">0,12963</property>
+    <property name="Scale X">0,5</property>
+    <property name="Scale Y">0,5</property>
+    <property name="Tilt X">0,5</property>
+    <property name="Tilt Y">0,5</property>
+   </filter>
+  </entry>
+  <blank length="57"/>
+  <entry out="15026" producer="1_video" in="14659"/>
+ </playlist>
+ <tractor id="maintractor" title="Anonymous Submission" global_feed="1" out="15027" in="0">
+  <track producer="black_track"/>
+  <track producer="playlist1" hide="video"/>
+  <track producer="playlist2" hide="video"/>
+  <track producer="playlist3" hide="both"/>
+  <track producer="playlist4" hide="audio"/>
+  <track producer="playlist5"/>
+  <transition id="transition0">
+   <property name="a_track">0</property>
+   <property name="b_track">1</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition1">
+   <property name="a_track">0</property>
+   <property name="b_track">2</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition2">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition3">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition4">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="mlt_service">mix</property>
+   <property name="always_active">1</property>
+   <property name="combine">1</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition5" out="1520" in="1514">
+   <property name="a_track">4</property>
+   <property name="b_track">5</property>
+   <property name="version">0,9</property>
+   <property name="mlt_service">frei0r.cairoaffineblend</property>
+   <property name="automatic">1</property>
+   <property name="kdenlive_id">frei0r.cairoaffineblend</property>
+   <property name="force_track">0</property>
+   <property name="0">0=0;2335=0</property>
+   <property name="1">0=0;2335=0</property>
+   <property name="2">0=0;2335=0</property>
+   <property name="3">0=0;2335=0</property>
+   <property name="4">0=0;2335=0</property>
+   <property name="5">0=0;2335=1</property>
+   <property name="6">normal</property>
+   <property name="7">0</property>
+   <property name="8">0</property>
+  </transition>
+  <transition id="transition6">
+   <property name="a_track">0</property>
+   <property name="b_track">3</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition7">
+   <property name="a_track">0</property>
+   <property name="b_track">4</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+  <transition id="transition8">
+   <property name="a_track">0</property>
+   <property name="b_track">5</property>
+   <property name="compositing">0</property>
+   <property name="distort">0</property>
+   <property name="mlt_service">qtblend</property>
+   <property name="internal_added">237</property>
+  </transition>
+ </tractor>
+</mlt>
