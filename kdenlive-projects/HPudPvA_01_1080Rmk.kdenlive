@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<mlt title="Anonymous Submission" version="6.4.1" root="/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/1080Rmk/remaster-resources/kdenlive-projects/01" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
+<mlt title="Anonymous Submission" version="6.4.1" root="/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/kdenlive-projects" producer="main bin" LC_NUMERIC="de_DE.UTF-8">
  <profile width="1920" frame_rate_den="1" height="800" display_aspect_num="12" display_aspect_den="5" frame_rate_num="25" colorspace="709" sample_aspect_den="1" description="HD 1920x800p 25 fps" progressive="1" sample_aspect_num="1"/>
  <producer id="1" title="Anonymous Submission" out="203845" in="0">
   <property name="length">02:15:53:21</property>
@@ -61,7 +61,7 @@
  <producer id="2" title="Anonymous Submission" out="15668" in="0">
   <property name="length">00:10:26:19</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/HPudPvA/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -117,7 +117,7 @@
  <producer id="4" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/1080Rmk/01/intro-titles-coldmirror-produktion.png</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/images/intro-titles-coldmirror-produktion.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -134,7 +134,7 @@
  <producer id="7" title="Anonymous Submission" out="4072" in="0">
   <property name="length">00:02:42:23</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/Duraphilms - Die Ankündigung des Todestodes-uw76l0VnoL0.mkv</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/Duraphilms_-_Die_Ankuendigung_des_Todestodes-uw76l0VnoL0.mkv</property>
   <property name="audio_index">1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -208,7 +208,7 @@
  <producer id="13" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/1080Rmk/01/intro-titles-zeigt-euch.png</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/images/intro-titles-zeigt-euch.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -311,7 +311,7 @@
  <producer id="22" out="384" in="0">
   <property name="length">385</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/1080Rmk/01/end-card-duraphilms-removal.png</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/images/end-card-duraphilms-removal.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -328,7 +328,7 @@
  <producer id="6" title="Anonymous Submission" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/1080Rmk/01/intro-titles-full-hd-remake.png</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/images/intro-titles-full-hd-remake.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -346,7 +346,7 @@
  <producer id="23" out="124" in="0">
   <property name="length">125</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/1080Rmk/remaster-resources/images/end-card-1080rmk-lnj.png</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/images/end-card-1080rmk-lnj.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -363,7 +363,7 @@
  <producer id="15" title="Anonymous Submission" out="167" in="0">
   <property name="length">168</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/1080Rmk/01/intro-a-duraphilms-company.png</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/images/intro-a-duraphilms-company.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
@@ -458,7 +458,7 @@
  <producer id="2_playlist1_audio" title="Anonymous Submission" out="15668" in="0">
   <property name="length">00:10:26:19</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/HPudPvA/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
   <property name="audio_index">1</property>
   <property name="video_index">-1</property>
   <property name="mute_on_pause">1</property>
@@ -844,7 +844,7 @@
  <producer id="2_video" title="Anonymous Submission" out="15668" in="0">
   <property name="length">00:10:26:19</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/3-_Harry_Potter_und_der_Penner_von_Alcatraz/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/HPudPvA/01-_HP_und_der_Penner_von_Alcatraz.mp4</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
@@ -1287,7 +1287,7 @@
  <producer id="7_video" title="Anonymous Submission" out="4072" in="0">
   <property name="length">00:02:42:23</property>
   <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/Duraphilms - Die Ankündigung des Todestodes-uw76l0VnoL0.mkv</property>
+  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/Harry_Potter_Synchro/Duraphilms_-_Die_Ankuendigung_des_Todestodes-uw76l0VnoL0.mkv</property>
   <property name="audio_index">-1</property>
   <property name="video_index">0</property>
   <property name="mute_on_pause">1</property>
