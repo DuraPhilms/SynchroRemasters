@@ -1,4 +1,4 @@
-# DuraPhilms HP Synchro Remasters - Quelldateien zum selbest rendern!
+# DuraPhilms HP Synchro Remasters - Quelldateien zum selbst rendern!
 
 In diesem Repo gibt es die Projektdateien und (Stand-)Bildmaterialen zu den
 1080p Fan-Remaster (1080Rmk) von der beliebten coldmirror Fan-Produktion HPudPvA
@@ -16,6 +16,10 @@ Das gibts hier: https://kdenlive.org/
 * ### Repo Klonen
 Entweder die ZIP von GitHub herunterladen & entpacken oder
 `git clone https://github.com/DuraPhilmsFans/SynchroRemasters` verwenden.
+
+* ### Fonts/Schriftarten installieren
+Kopiere einfach alle Schriftarten aus dem Ordner `fonts` in den Ordner `~/.fonts/`,
+wenn dieser noch nicht existiert, dann lege ihn an.
 
 * ### Videomaterial herunterladen
 Dafuer braucht ihr nur das hoch-professionelle `download-videos.sh` Skript
