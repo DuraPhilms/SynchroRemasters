@@ -1,0 +1,47 @@
+<kdenlivetitle width="1920" duration="125" out="125" height="1080" LC_NUMERIC="de_DE.UTF-8">
+ <item z-index="7" type="QGraphicsTextItem">
+  <position x="372" y="712">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="164" font-outline-color="0,0,0,255" shadow="1;#fffff70f;99;0;0" font="DejaVu Sans" font-underline="0" font-outline="0.3" font-pixel-size="140" line-spacing="0" box-width="81.2031" font-color="255,255,255,255" alignment="1">?</content>
+ </item>
+ <item z-index="6" type="QGraphicsTextItem">
+  <position x="1018" y="244">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="164" font-outline-color="0,0,0,255" shadow="1;#fffff70f;99;0;0" font="DejaVu Sans" font-underline="0" font-outline="0.3" font-pixel-size="140" line-spacing="0" box-width="81.2031" font-color="255,255,255,255" alignment="1">?</content>
+ </item>
+ <item z-index="5" type="QGraphicsTextItem">
+  <position x="317" y="367">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="164" font-outline-color="0,0,0,255" shadow="1;#fffff70f;99;0;0" font="DejaVu Sans" font-underline="0" font-outline="0.3" font-pixel-size="140" line-spacing="0" box-width="81.2031" font-color="255,255,255,255" alignment="1">?</content>
+ </item>
+ <item z-index="4" type="QGraphicsTextItem">
+  <position x="496" y="471">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="164" font-outline-color="0,0,0,255" shadow="1;#fffff70f;99;0;0" font="DejaVu Sans" font-underline="0" font-outline="0.3" font-pixel-size="140" line-spacing="0" box-width="81.2031" font-color="255,255,255,255" alignment="1">?</content>
+ </item>
+ <item z-index="3" type="QGraphicsTextItem">
+  <position x="853" y="660">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="164" font-outline-color="0,0,0,255" shadow="1;#fffff70f;99;0;0" font="DejaVu Sans" font-underline="0" font-outline="0.3" font-pixel-size="140" line-spacing="0" box-width="81.2031" font-color="255,255,255,255" alignment="1">?</content>
+ </item>
+ <item z-index="1" type="QGraphicsTextItem">
+  <position x="620" y="154">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="0" letter-spacing="0" font-weight="75" box-height="164" font-outline-color="0,0,0,255" shadow="1;#fffff70f;99;0;0" font="DejaVu Sans" font-underline="0" font-outline="0.3" font-pixel-size="140" line-spacing="0" box-width="81.2031" font-color="255,255,255,255" alignment="1">?</content>
+ </item>
+ <item z-index="0" type="QGraphicsTextItem">
+  <position x="977" y="464">
+   <transform>1,0,0,0,1,0,0,0,1</transform>
+  </position>
+  <content font-italic="1" letter-spacing="0" font-weight="75" box-height="94" font-outline-color="0,0,0,255" shadow="1;#fffff70f;99;0;0" font="DejaVu Sans" font-underline="0" font-outline="0.3" font-pixel-size="80" line-spacing="0" box-width="870.281" font-color="255,255,255,255" alignment="1">Wo geht das an ???</content>
+ </item>
+ <startviewport rect="0,0,1920,1080"/>
+ <endviewport rect="0,0,1920,1080"/>
+ <background color="134,134,134,0"/>
+</kdenlivetitle>
