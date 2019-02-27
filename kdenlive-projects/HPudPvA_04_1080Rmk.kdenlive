@@ -604,7 +604,7 @@
   <property name="kdenlive:docproperties.generateimageproxy">0</property>
   <property name="kdenlive:docproperties.generateproxy">0</property>
   <property name="kdenlive:docproperties.kdenliveversion">18.12.2</property>
-  <property name="kdenlive:docproperties.position">8646</property>
+  <property name="kdenlive:docproperties.position">0</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">avi</property>
   <property name="kdenlive:docproperties.previewparameters">f=avi vcodec=mjpeg progressive=1 qscale=1</property>
@@ -618,12 +618,12 @@
   <property name="kdenlive:docproperties.videotargettrack">2</property>
   <property name="kdenlive:docproperties.zonein">9642</property>
   <property name="kdenlive:docproperties.zoneout">9935</property>
-  <property name="kdenlive:docproperties.zoom">6</property>
+  <property name="kdenlive:docproperties.zoom">9</property>
   <property name="kdenlive:documentnotes"/>
   <property name="kdenlive:clipgroups"/>
   <property name="kdenlive:folder.-1.1">frames</property>
   <property name="kdenlive:folder.-1.2">images</property>
-  <property name="kdenlive:docproperties.renderaudioquality">192</property>
+  <property name="kdenlive:docproperties.renderaudioquality">160</property>
   <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
@@ -636,12 +636,12 @@
   <property name="kdenlive:docproperties.renderrescaleheight">180</property>
   <property name="kdenlive:docproperties.renderrescalewidth">432</property>
   <property name="kdenlive:docproperties.renderscanning">1</property>
-  <property name="kdenlive:docproperties.renderspeed">1</property>
+  <property name="kdenlive:docproperties.renderspeed">0</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/HPudPvA/1080rmk/HPudPvA_04_1080Rmk.bf.mp4</property>
+  <property name="kdenlive:docproperties.renderurl">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/HPudPvA/1080rmk/HPudPvA_04_1080Rmk.crf20.veryslow.mp4</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="kdenlive:folder.2.3">Duell</property>
   <property name="xml_retain">1</property>
