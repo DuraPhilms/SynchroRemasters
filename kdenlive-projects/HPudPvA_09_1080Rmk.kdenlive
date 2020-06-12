@@ -332,24 +332,6 @@
   <property name="meta.media.progressive">1</property>
   <property name="meta.media.color_range">mpeg</property>
  </producer>
- <producer id="producer5" in="00:00:00,000" out="00:00:11,760">
-  <property name="length">295</property>
-  <property name="eof">pause</property>
-  <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/images/seelsorge_mit_arnolf_huetler.large.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">3840</property>
-  <property name="meta.media.height">1600</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05,000</property>
-  <property name="kdenlive:id">8</property>
-  <property name="kdenlive:file_size">1217148</property>
-  <property name="kdenlive:file_hash">636d9c67ef80b500e5fa88ef1961e6ae</property>
-  <property name="kdenlive:folderid">-1</property>
- </producer>
  <producer id="producer6" in="00:00:00,000" out="00:00:00,960">
   <property name="length">00:00:01,000</property>
   <property name="eof">pause</property>
@@ -1053,7 +1035,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">19.08.1</property>
-  <property name="kdenlive:docproperties.position">16348</property>
+  <property name="kdenlive:docproperties.position">16299</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">avi</property>
   <property name="kdenlive:docproperties.previewparameters">f=avi vcodec=mjpeg progressive=1 qscale=1</property>
@@ -1063,32 +1045,32 @@
   <property name="kdenlive:docproperties.proxyimagesize">800</property>
   <property name="kdenlive:docproperties.proxyminsize">2000</property>
   <property name="kdenlive:docproperties.proxyparams">-vf scale=1024:-2 -vcodec libx264 -g 1 -bf 0 -vb 0 -crf 20 -preset veryfast -acodec aac -ab 128k</property>
-  <property name="kdenlive:docproperties.renderaudioquality">192</property>
-  <property name="kdenlive:docproperties.rendercategory">Generic (HD for web, mobile devices...)</property>
+  <property name="kdenlive:docproperties.renderaudioquality">7</property>
+  <property name="kdenlive:docproperties.rendercategory">Ultra-High Definition (4K)</property>
   <property name="kdenlive:docproperties.renderendguide">-1</property>
   <property name="kdenlive:docproperties.renderexportaudio">0</property>
   <property name="kdenlive:docproperties.renderfield">0</property>
   <property name="kdenlive:docproperties.renderguide">0</property>
   <property name="kdenlive:docproperties.renderplay">0</property>
-  <property name="kdenlive:docproperties.renderprofile">Moin MKV</property>
-  <property name="kdenlive:docproperties.renderquality">20</property>
+  <property name="kdenlive:docproperties.renderprofile">WebM-VP9</property>
+  <property name="kdenlive:docproperties.renderquality">18</property>
   <property name="kdenlive:docproperties.renderratio">1</property>
-  <property name="kdenlive:docproperties.renderrescale">1</property>
+  <property name="kdenlive:docproperties.renderrescale">0</property>
   <property name="kdenlive:docproperties.renderrescaleheight">800</property>
   <property name="kdenlive:docproperties.renderrescalewidth">1920</property>
   <property name="kdenlive:docproperties.renderscanning">0</property>
-  <property name="kdenlive:docproperties.renderspeed">1</property>
+  <property name="kdenlive:docproperties.renderspeed">2</property>
   <property name="kdenlive:docproperties.renderstartguide">-1</property>
   <property name="kdenlive:docproperties.rendertcoverlay">0</property>
   <property name="kdenlive:docproperties.rendertctype">0</property>
   <property name="kdenlive:docproperties.rendertwopass">0</property>
-  <property name="kdenlive:docproperties.renderurl">/home/lnj/HPudPvA_09_Remastered.1080p.mkv</property>
+  <property name="kdenlive:docproperties.renderurl">/home/lnj/HPudPvA_09_Remastered.2160p.webm</property>
   <property name="kdenlive:docproperties.renderzone">0</property>
   <property name="kdenlive:docproperties.scrollPos">0</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">0.99</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">15714</property>
   <property name="kdenlive:docproperties.zoneout">15869</property>
   <property name="kdenlive:docproperties.zoom">12</property>
@@ -1100,7 +1082,6 @@
   <entry producer="producer0" in="00:00:00,000" out="00:10:55,560"/>
   <entry producer="producer1" in="00:00:00,000" out="00:00:06,960"/>
   <entry producer="producer4" in="00:00:00,000" out="00:00:11,800"/>
-  <entry producer="producer5" in="00:00:00,000" out="00:00:11,760"/>
   <entry producer="producer6" in="00:00:00,000" out="00:00:00,960"/>
   <entry producer="producer8" in="00:00:00,000" out="00:00:07,760"/>
   <entry producer="producer2" in="00:00:00,000" out="00:00:37,720"/>
@@ -1140,7 +1121,7 @@
   <track hide="video" producer="playlist0"/>
   <track hide="video" producer="playlist1"/>
  </tractor>
- <producer title="Anonymous Submission" id="producer19" in="00:00:00,000" out="00:00:06,960">
+ <producer title="Anonymous Submission" id="producer5" in="00:00:00,000" out="00:00:06,960">
   <property name="length">175</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/HPudPvA_Intro_1080Rmk.mp4</property>
@@ -1266,7 +1247,7 @@
   <property name="set.test_audio">0</property>
   <property name="set.test_image">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer20" in="00:00:00,000" out="00:10:55,560">
+ <producer title="Anonymous Submission" id="producer19" in="00:00:00,000" out="00:10:55,560">
   <property name="length">16390</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09.mp4</property>
@@ -1388,10 +1369,10 @@
  </producer>
  <playlist id="playlist2">
   <property name="kdenlive:audio_track">1</property>
-  <entry producer="producer19" in="00:00:00,000" out="00:00:06,960">
+  <entry producer="producer5" in="00:00:00,000" out="00:00:06,960">
    <property name="kdenlive:id">4</property>
   </entry>
-  <entry producer="producer20" in="00:00:07,400" out="00:10:55,560">
+  <entry producer="producer19" in="00:00:07,400" out="00:10:55,560">
    <property name="kdenlive:id">3</property>
   </entry>
  </playlist>
@@ -1407,7 +1388,7 @@
   <track hide="video" producer="playlist2"/>
   <track hide="video" producer="playlist3"/>
  </tractor>
- <producer title="Anonymous Submission" id="producer21" in="00:00:00,000" out="00:00:06,960">
+ <producer title="Anonymous Submission" id="producer20" in="00:00:00,000" out="00:00:06,960">
   <property name="length">175</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/HPudPvA_Intro_1080Rmk.mp4</property>
@@ -1533,7 +1514,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer title="Anonymous Submission" id="producer22" in="00:00:00,000" out="00:09:40,880">
+ <producer title="Anonymous Submission" id="producer21" in="00:00:00,000" out="00:09:40,880">
   <property name="length">14523</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09-orig.2160p25.mkv</property>
@@ -1629,7 +1610,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer24" in="00:00:00,000" out="00:10:55,560">
+ <producer title="Anonymous Submission" id="producer22" in="00:00:00,000" out="00:10:55,560">
   <property name="length">16390</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09.mp4</property>
@@ -1795,7 +1776,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer26" in="00:00:00,000" out="00:00:11,800">
+ <producer title="Anonymous Submission" id="producer24" in="00:00:00,000" out="00:00:11,800">
   <property name="length">296</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09-seelsorge.mkv</property>
@@ -1935,7 +1916,7 @@
   <property name="meta.media.top_field_first">0</property>
   <property name="meta.media.progressive">1</property>
  </producer>
- <producer title="Anonymous Submission" id="producer28" in="00:00:00,000" out="00:00:37,720">
+ <producer title="Anonymous Submission" id="producer26" in="00:00:00,000" out="00:00:37,720">
   <property name="length">944</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09-wetten-dass-intro.mkv</property>
@@ -2272,7 +2253,7 @@
   <property name="kdenlive:id">2</property>
  </producer>
  <playlist id="playlist4">
-  <entry producer="producer21" in="00:00:00,000" out="00:00:06,960">
+  <entry producer="producer20" in="00:00:00,000" out="00:00:06,960">
    <property name="kdenlive:id">4</property>
    <filter id="filter0">
     <property name="background">colour:0x00000000</property>
@@ -2284,7 +2265,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:00:00,000" out="00:00:20,560">
+  <entry producer="producer21" in="00:00:00,000" out="00:00:20,560">
    <property name="kdenlive:id">2</property>
    <filter id="filter1">
     <property name="mirror">flip</property>
@@ -2304,7 +2285,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:00:23,160" out="00:00:39,360">
+  <entry producer="producer21" in="00:00:23,160" out="00:00:39,360">
    <property name="kdenlive:id">2</property>
    <filter id="filter3">
     <property name="mirror">flip</property>
@@ -2314,7 +2295,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer24" in="00:00:49,200" out="00:00:52,760">
+  <entry producer="producer22" in="00:00:49,200" out="00:00:52,760">
    <property name="kdenlive:id">3</property>
    <filter id="filter4">
     <property name="version">0,2</property>
@@ -2354,7 +2335,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:00:46,520" out="00:00:48,360">
+  <entry producer="producer21" in="00:00:46,520" out="00:00:48,360">
    <property name="kdenlive:id">2</property>
    <filter id="filter8">
     <property name="mirror">flip</property>
@@ -2364,7 +2345,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer24" in="00:00:54,680" out="00:00:57,400">
+  <entry producer="producer22" in="00:00:54,680" out="00:00:57,400">
    <property name="kdenlive:id">3</property>
    <filter id="filter9">
     <property name="version">0,2</property>
@@ -2400,7 +2381,7 @@
     <property name="Edge">1</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:00:50,000" out="00:03:21,960">
+  <entry producer="producer21" in="00:00:50,000" out="00:03:21,960">
    <property name="kdenlive:id">2</property>
    <filter id="filter13">
     <property name="mirror">flip</property>
@@ -2420,7 +2401,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:03:27,920" out="00:03:44,320">
+  <entry producer="producer21" in="00:03:27,920" out="00:03:44,320">
    <property name="kdenlive:id">2</property>
    <filter id="filter15">
     <property name="mirror">flip</property>
@@ -2431,10 +2412,10 @@
    </filter>
   </entry>
   <blank length="00:00:01,640"/>
-  <entry producer="producer26" in="00:00:00,040" out="00:00:11,800">
+  <entry producer="producer24" in="00:00:00,040" out="00:00:11,800">
    <property name="kdenlive:id">6</property>
   </entry>
-  <entry producer="producer22" in="00:03:44,680" out="00:05:15,560">
+  <entry producer="producer21" in="00:03:44,680" out="00:05:15,560">
    <property name="kdenlive:id">2</property>
    <filter id="filter16">
     <property name="mirror">flip</property>
@@ -2444,7 +2425,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:05:15,600" out="00:05:59,400">
+  <entry producer="producer21" in="00:05:15,600" out="00:05:59,400">
    <property name="kdenlive:id">2</property>
    <filter id="filter17">
     <property name="mirror">flip</property>
@@ -2454,7 +2435,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:05:59,440" out="00:06:08,840">
+  <entry producer="producer21" in="00:05:59,440" out="00:06:08,840">
    <property name="kdenlive:id">2</property>
    <filter id="filter18">
     <property name="mirror">flip</property>
@@ -2474,7 +2455,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:06:15,640" out="00:08:21,040">
+  <entry producer="producer21" in="00:06:15,640" out="00:08:21,040">
    <property name="kdenlive:id">2</property>
    <filter id="filter20">
     <property name="mirror">flip</property>
@@ -2485,7 +2466,7 @@
     <property name="disable">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:08:22,480" out="00:08:29,200">
+  <entry producer="producer21" in="00:08:22,480" out="00:08:29,200">
    <property name="kdenlive:id">2</property>
    <filter id="filter21">
     <property name="mirror">flip</property>
@@ -2495,7 +2476,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:08:29,240" out="00:09:22,200">
+  <entry producer="producer21" in="00:08:29,240" out="00:09:22,200">
    <property name="kdenlive:id">2</property>
    <filter id="filter22">
     <property name="mirror">flip</property>
@@ -2505,7 +2486,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer28" in="00:00:00,000" out="00:00:06,840">
+  <entry producer="producer26" in="00:00:00,000" out="00:00:06,840">
    <property name="kdenlive:id">7</property>
    <filter id="filter23">
     <property name="mlt_service">crop</property>
@@ -2538,7 +2519,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer24" in="00:09:49,880" out="00:09:51,600">
+  <entry producer="producer22" in="00:09:49,880" out="00:09:51,600">
    <property name="kdenlive:id">3</property>
    <filter id="filter26">
     <property name="version">0,2</property>
@@ -2566,7 +2547,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer24" in="00:09:51,640" out="00:10:23,960">
+  <entry producer="producer22" in="00:09:51,640" out="00:10:23,960">
    <property name="kdenlive:id">3</property>
    <filter id="filter29">
     <property name="version">0,2</property>
@@ -2614,7 +2595,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer24" in="00:10:24,000" out="00:10:24,680">
+  <entry producer="producer22" in="00:10:24,000" out="00:10:24,680">
    <property name="kdenlive:id">3</property>
    <filter id="filter34">
     <property name="version">0,2</property>
@@ -2654,7 +2635,7 @@
     <property name="disable">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:26,240" out="00:09:26,520">
+  <entry producer="producer21" in="00:09:26,240" out="00:09:26,520">
    <property name="kdenlive:id">2</property>
    <filter id="filter38">
     <property name="mirror">flip</property>
@@ -2683,7 +2664,7 @@
     <property name="reverse">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:27,160" out="00:09:27,440">
+  <entry producer="producer21" in="00:09:27,160" out="00:09:27,440">
    <property name="kdenlive:id">2</property>
    <filter id="filter41">
     <property name="mirror">flip</property>
@@ -2723,7 +2704,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:27,160" out="00:09:27,440">
+  <entry producer="producer21" in="00:09:27,160" out="00:09:27,440">
    <property name="kdenlive:id">2</property>
    <filter id="filter49">
     <property name="mirror">flip</property>
@@ -2753,7 +2734,7 @@
     <property name="position">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:26,880" out="00:09:27,480">
+  <entry producer="producer21" in="00:09:26,880" out="00:09:27,480">
    <property name="kdenlive:id">2</property>
    <filter id="filter44">
     <property name="mirror">flip</property>
@@ -2763,7 +2744,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:26,920" out="00:09:27,880">
+  <entry producer="producer21" in="00:09:26,920" out="00:09:27,880">
    <property name="kdenlive:id">2</property>
    <filter id="filter45">
     <property name="mirror">flip</property>
@@ -2783,7 +2764,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:27,960" out="00:09:33,960">
+  <entry producer="producer21" in="00:09:27,960" out="00:09:33,960">
    <property name="kdenlive:id">2</property>
    <filter id="filter47">
     <property name="mirror">flip</property>
@@ -2793,7 +2774,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:34,000" out="00:09:36,560">
+  <entry producer="producer21" in="00:09:34,000" out="00:09:36,560">
    <property name="kdenlive:id">2</property>
    <filter id="filter52">
     <property name="mirror">flip</property>
@@ -2802,7 +2783,7 @@
     <property name="reverse">0</property>
    </filter>
   </entry>
-  <entry producer="producer22" in="00:09:36,600" out="00:09:40,880">
+  <entry producer="producer21" in="00:09:36,600" out="00:09:40,880">
    <property name="kdenlive:id">2</property>
    <filter id="filter53">
     <property name="mirror">flip</property>
@@ -2813,7 +2794,7 @@
    </filter>
   </entry>
   <blank length="00:00:04,880"/>
-  <entry producer="producer24" in="00:10:47,800" out="00:10:54,680">
+  <entry producer="producer22" in="00:10:47,800" out="00:10:54,680">
    <property name="kdenlive:id">3</property>
    <filter id="filter106">
     <property name="version">0,2</property>
@@ -2842,7 +2823,7 @@
   <track hide="audio" producer="playlist4"/>
   <track hide="audio" producer="playlist5"/>
  </tractor>
- <producer title="Anonymous Submission" id="producer35" in="00:00:00,000" out="00:10:55,560">
+ <producer title="Anonymous Submission" id="producer28" in="00:00:00,000" out="00:10:55,560">
   <property name="length">16390</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09.mp4</property>
@@ -2962,7 +2943,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer title="Anonymous Submission" id="producer36" in="00:00:00,000" out="00:00:37,720">
+ <producer title="Anonymous Submission" id="producer35" in="00:00:00,000" out="00:00:37,720">
   <property name="length">944</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09-wetten-dass-intro.mkv</property>
@@ -3024,7 +3005,7 @@
  </producer>
  <playlist id="playlist6">
   <blank length="00:00:48,800"/>
-  <entry producer="producer35" in="00:00:49,200" out="00:00:52,760">
+  <entry producer="producer28" in="00:00:49,200" out="00:00:52,760">
    <property name="kdenlive:id">3</property>
    <filter id="filter54">
     <property name="version">0,2</property>
@@ -3047,7 +3028,7 @@
    </filter>
   </entry>
   <blank length="00:00:01,880"/>
-  <entry producer="producer35" in="00:00:54,680" out="00:00:57,400">
+  <entry producer="producer28" in="00:00:54,680" out="00:00:57,400">
    <property name="kdenlive:id">3</property>
    <filter id="filter56">
     <property name="version">0,2</property>
@@ -3068,7 +3049,7 @@
    </filter>
   </entry>
   <blank length="00:02:53,600"/>
-  <entry producer="producer35" in="00:03:51,040" out="00:03:52,440">
+  <entry producer="producer28" in="00:03:51,040" out="00:03:52,440">
    <property name="kdenlive:id">3</property>
    <filter id="filter58">
     <property name="background">colour:0x00000000</property>
@@ -3109,7 +3090,7 @@
    <property name="kdenlive:id">17</property>
   </entry>
   <blank length="00:01:30,920"/>
-  <entry producer="producer35" in="00:05:36,000" out="00:05:47,960">
+  <entry producer="producer28" in="00:05:36,000" out="00:05:47,960">
    <property name="kdenlive:id">3</property>
    <filter id="filter61">
     <property name="background">colour:0x00000000</property>
@@ -3145,7 +3126,7 @@
     <property name="disable">0</property>
    </filter>
   </entry>
-  <entry producer="producer35" in="00:05:47,960" out="00:05:47,960">
+  <entry producer="producer28" in="00:05:47,960" out="00:05:47,960">
    <property name="kdenlive:id">3</property>
    <filter id="filter64">
     <property name="background">colour:0x00000000</property>
@@ -3185,7 +3166,7 @@
    <property name="kdenlive:id">10</property>
   </entry>
   <blank length="00:03:05,200"/>
-  <entry producer="producer36" in="00:00:00,000" out="00:00:06,840">
+  <entry producer="producer35" in="00:00:00,000" out="00:00:06,840">
    <property name="kdenlive:id">7</property>
    <filter id="filter67">
     <property name="mlt_service">crop</property>
@@ -3200,7 +3181,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer35" in="00:09:49,880" out="00:09:51,600">
+  <entry producer="producer28" in="00:09:49,880" out="00:09:51,600">
    <property name="kdenlive:id">3</property>
    <filter id="filter68">
     <property name="version">0,2</property>
@@ -3222,7 +3203,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer35" in="00:09:51,640" out="00:10:23,960">
+  <entry producer="producer28" in="00:09:51,640" out="00:10:23,960">
    <property name="kdenlive:id">3</property>
    <filter id="filter70">
     <property name="version">0,2</property>
@@ -3254,7 +3235,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer35" in="00:10:24,000" out="00:10:24,680">
+  <entry producer="producer28" in="00:10:24,000" out="00:10:24,680">
    <property name="kdenlive:id">3</property>
    <filter id="filter73">
     <property name="version">0,2</property>
@@ -3328,7 +3309,7 @@
   <track hide="audio" producer="playlist6"/>
   <track hide="audio" producer="playlist7"/>
  </tractor>
- <producer title="Anonymous Submission" id="producer37" in="00:00:00,000" out="00:10:55,560">
+ <producer title="Anonymous Submission" id="producer36" in="00:00:00,000" out="00:10:55,560">
   <property name="length">16390</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09.mp4</property>
@@ -3487,7 +3468,7 @@
  </producer>
  <playlist id="playlist8">
   <blank length="00:03:50,640"/>
-  <entry producer="producer37" in="00:03:51,040" out="00:03:52,440">
+  <entry producer="producer36" in="00:03:51,040" out="00:03:52,440">
    <property name="kdenlive:id">3</property>
    <filter id="filter77">
     <property name="background">colour:0x00000000</property>
@@ -3551,7 +3532,7 @@
    </filter>
   </entry>
   <blank length="00:03:13,840"/>
-  <entry producer="producer37" in="00:09:51,640" out="00:10:23,760">
+  <entry producer="producer36" in="00:09:51,640" out="00:10:23,760">
    <property name="kdenlive:id">3</property>
    <filter id="filter82">
     <property name="version">0,2</property>
@@ -3612,7 +3593,7 @@
    </filter>
   </entry>
   <blank length="00:00:00,200"/>
-  <entry producer="producer37" in="00:10:24,000" out="00:10:24,680">
+  <entry producer="producer36" in="00:10:24,000" out="00:10:24,680">
    <property name="kdenlive:id">3</property>
    <filter id="filter87">
     <property name="version">0,2</property>
@@ -3673,7 +3654,7 @@
    </filter>
   </entry>
   <blank length="00:00:05,320"/>
-  <entry producer="producer37" in="00:10:30,040" out="00:10:35,320">
+  <entry producer="producer36" in="00:10:30,040" out="00:10:35,320">
    <property name="kdenlive:id">3</property>
    <filter id="filter98">
     <property name="background">colour:0x00000000</property>
@@ -3709,7 +3690,7 @@
    </filter>
   </entry>
   <blank length="00:00:06,120"/>
-  <entry producer="producer37" in="00:10:41,480" out="00:10:42,360">
+  <entry producer="producer36" in="00:10:41,480" out="00:10:42,360">
    <property name="kdenlive:id">3</property>
    <filter id="filter93">
     <property name="background">colour:0x00000000</property>
@@ -3744,7 +3725,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer37" in="00:10:42,400" out="00:10:42,720">
+  <entry producer="producer36" in="00:10:42,400" out="00:10:42,720">
    <property name="kdenlive:id">3</property>
    <filter id="filter96">
     <property name="background">colour:0x00000000</property>
@@ -3779,7 +3760,7 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer37" in="00:10:42,760" out="00:10:42,880">
+  <entry producer="producer36" in="00:10:42,760" out="00:10:42,880">
    <property name="kdenlive:id">3</property>
    <filter id="filter101">
     <property name="background">colour:0x00000000</property>
@@ -3811,7 +3792,7 @@
     <property name="Operation">0</property>
    </filter>
   </entry>
-  <entry producer="producer37" in="00:10:42,920" out="00:10:43,720">
+  <entry producer="producer36" in="00:10:42,920" out="00:10:43,720">
    <property name="kdenlive:id">3</property>
    <filter id="filter104">
     <property name="background">colour:0x00000000</property>
@@ -3885,7 +3866,7 @@
   <property name="set.test_image">0</property>
   <property name="kdenlive:id">2</property>
  </producer>
- <producer title="Anonymous Submission" id="producer40" in="00:00:00,000" out="00:09:40,880">
+ <producer title="Anonymous Submission" id="producer37" in="00:00:00,000" out="00:09:40,880">
   <property name="length">14523</property>
   <property name="eof">pause</property>
   <property name="resource">/media/lnj/LNJ-1TB-HDD/vid/yt/DuraPhilms/SynchroRemasters/videos/PvA-09-orig.2160p25.mkv</property>
@@ -3968,7 +3949,7 @@
    </filter>
   </entry>
   <blank length="00:04:04,960"/>
-  <entry producer="producer40" in="00:09:40,760" out="00:09:40,880">
+  <entry producer="producer37" in="00:09:40,760" out="00:09:40,880">
    <property name="kdenlive:id">2</property>
    <filter id="filter110">
     <property name="mirror">flip</property>
@@ -4021,8 +4002,8 @@
   <property name="kdenlive:collapsed">0</property>
   <property name="kdenlive:thumbs_format"/>
   <property name="kdenlive:audio_rec"/>
-  <track hide="both" producer="playlist10"/>
-  <track hide="both" producer="playlist11"/>
+  <track hide="audio" producer="playlist10"/>
+  <track hide="audio" producer="playlist11"/>
  </tractor>
  <playlist id="timeline_preview"/>
  <tractor title="Anonymous Submission" id="tractor6" global_feed="1" in="00:00:00,000" out="00:30:55,800">
@@ -4078,22 +4059,7 @@
    <property name="rotate_z">00:00:00,000=0;00:00:00,200=0;00:00:00,480=0;00:00:00,800=0;00:00:01,040=0;00:00:01,240=0;00:00:01,400=0;00:00:01,760=0;00:00:02,400=0;00:00:03,360=0;00:00:03,960=0;00:00:04,200=0;00:00:04,680=0;00:00:04,960=0</property>
    <property name="keyed">1</property>
   </transition>
-  <transition id="transition3" in="00:10:29,640" out="00:10:30,080">
-   <property name="a_track">3</property>
-   <property name="b_track">4</property>
-   <property name="start">0/0:100%x100%</property>
-   <property name="factory">loader</property>
-   <property name="aligned">0</property>
-   <property name="progressive">1</property>
-   <property name="mlt_service">composite</property>
-   <property name="kdenlive_id">wipe</property>
-   <property name="softness">0</property>
-   <property name="luma"/>
-   <property name="luma_invert">0</property>
-   <property name="geometry">0%/0%:100%x100%:100;-1=0%/0%:100%x100%:0</property>
-   <property name="fill">1</property>
-  </transition>
-  <transition id="transition4" in="00:03:52,880" out="00:03:54,120">
+  <transition id="transition3" in="00:03:52,880" out="00:03:54,120">
    <property name="a_track">3</property>
    <property name="b_track">4</property>
    <property name="start">0/0:100%x100%</property>
@@ -4108,23 +4074,22 @@
    <property name="geometry">0%/0%:100%x100%:0;-1=0%/0%:100%x100%:100</property>
    <property name="fill">1</property>
   </transition>
-  <transition id="transition5" in="00:10:33,960" out="00:10:34,920">
+  <transition id="transition4" in="00:10:29,640" out="00:10:30,080">
    <property name="a_track">3</property>
-   <property name="b_track">5</property>
+   <property name="b_track">4</property>
    <property name="start">0/0:100%x100%</property>
    <property name="factory">loader</property>
    <property name="aligned">0</property>
    <property name="progressive">1</property>
    <property name="mlt_service">composite</property>
    <property name="kdenlive_id">wipe</property>
-   <property name="force_track">1</property>
    <property name="softness">0</property>
    <property name="luma"/>
    <property name="luma_invert">0</property>
    <property name="geometry">0%/0%:100%x100%:100;-1=0%/0%:100%x100%:0</property>
    <property name="fill">1</property>
   </transition>
-  <transition id="transition6" in="00:10:29,640" out="00:10:30,080">
+  <transition id="transition5" in="00:10:29,640" out="00:10:30,080">
    <property name="a_track">3</property>
    <property name="b_track">5</property>
    <property name="start">0/0:100%x100%</property>
@@ -4138,6 +4103,22 @@
    <property name="luma"/>
    <property name="luma_invert">0</property>
    <property name="geometry">0%/0%:100%x100%:0;-1=0%/0%:100%x100%:100</property>
+   <property name="fill">1</property>
+  </transition>
+  <transition id="transition6" in="00:10:33,960" out="00:10:34,920">
+   <property name="a_track">3</property>
+   <property name="b_track">5</property>
+   <property name="start">0/0:100%x100%</property>
+   <property name="factory">loader</property>
+   <property name="aligned">0</property>
+   <property name="progressive">1</property>
+   <property name="mlt_service">composite</property>
+   <property name="kdenlive_id">wipe</property>
+   <property name="force_track">1</property>
+   <property name="softness">0</property>
+   <property name="luma"/>
+   <property name="luma_invert">0</property>
+   <property name="geometry">0%/0%:100%x100%:100;-1=0%/0%:100%x100%:0</property>
    <property name="fill">1</property>
   </transition>
   <transition id="transition7" in="00:03:52,880" out="00:03:54,120">
